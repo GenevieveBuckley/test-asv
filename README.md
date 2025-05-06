@@ -17,6 +17,10 @@ To run the asv benchmarks:
 asv run
 ```
 
+## Error messages
+
+This gist contains error message output: https://gist.github.com/GenevieveBuckley/7c86fd8875824f2ef8dc668b989a0a79
+
 ## Resources
 
 Documentation: https://asv.readthedocs.io/en/latest/
