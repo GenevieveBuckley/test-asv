@@ -1,0 +1,8 @@
+   name: conda-py3.12
+   channels:
+      - conda-forge
+   dependencies:
+      - python=3.12
+      - wheel
+      - pip
+      - conda-build
